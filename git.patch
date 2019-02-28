@@ -1,9 +1,0 @@
-diff --git 1.txt 1.txt
-index 748099d..782dae6 100644
---- 1.txt
-+++ 1.txt
-@@ -1 +1,2 @@
--11111111
-\ No newline at end of file
-+11111111
-+one
