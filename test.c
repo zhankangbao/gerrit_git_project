@@ -3,6 +3,7 @@
 int main(void)
 {
     int i,total;
+    int asdf;
     total=0;
     printf("hello world");
     printf("hello world");
