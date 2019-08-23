@@ -1,5 +1,5 @@
 #include<stdio.h>
-//xx 
+//xxoo 
 int main(void)
 {
     int i,total;
