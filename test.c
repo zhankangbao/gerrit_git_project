@@ -1,5 +1,6 @@
 #include<stdio.h>
-//xxoo 
+//xxoo
+//bash test 
 int main(void)
 {
     int i,total;
